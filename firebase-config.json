@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "social-planner-5fc35",
+  "private_key_id": "15d3a159828ca92a7e187539911b07ba1ef93e07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC58ZNkYrUYcmFR\nys7WLpngotLw2vVvugItChhDjY7rx4ihRb13WJg2ALvwxag9ZYuB/ZYBIXKUSzY7\nT6mz422EK+69GClrAg4ULUjyTr5Dfj2UcYtvHi9sFeEUx0iZ42KoKe5v3DHFEKYs\n4/HgBhEBUj7ixW4x3qdR2PqPM7QLsyg7LIStR2d4YW0yKTahxcjv1CHRxIwlKYBc\nv8xEMt50F8jeEhudU9+FENSaQmSIlnCtwjqkv6YieRvINS3d8Q/+RqmePMQC575m\nTa9j8llHGsBjeAL8pAeVRr5dxzIuPW4d0wnhKMWEk0z56zlUdii88ZmFV5XaqFzr\nYWb3nVsJAgMBAAECggEAFYDddb+Ah+o6XPYiQ1yySOsrj9USizAsrj67nZxSSewS\nXewtxA6H077z/R0unqMOpiLIZSsUEBg+lk9ZJceIU7+s5UtVBt3++NBf3j3C/RUt\nU+xpnpkUDODe3cNKHxnPv/jRbTg+vTZ2sTxPLYQmFUwIn7sLSlMgcHOyTjtBeBS2\ndDTLkZwUoMuqGN9xEsNII0IOctFgD32a2hak1tEtfPZSacblLpZU7GDrdT7T9RCS\njqYTwLOEOnA07M50k2RPNZgCF+A6QRvSU6/0j0Xorog89pdhaoznTQ8/vH2JbYVg\nFTqQwE0bbCBQMHliPMhbHrlPeP3rteXmYfgA0AGWsQKBgQDiTHyUopOyfa4mS4Q2\n1r9nTe05Cpx0F9KzXBTXTLQop+TKlpadlo42i+SeBeOVhORk5+KDSGW9i8dwxIg2\nGPWrNu9OXtrqeQ+Nz9QSUWTt4bBpAyHeJhmFu1R9q+cR6bRolZCP/1ijY5C20SMS\n2tKIhD3oJkn6KhDi1XmiNVZdLQKBgQDSWS3vfNkf2wp13gv9HiO0IfrZE11dgNX2\nMBMhGTRSWhJACm+anqcBrtVpEkiK2t/Ty8wcmXq+Ib3Qz5ySpQhGwPMuzN2Sj3uX\nQRwTQJvyBL8sfA5mb7YeeqQqel6o1BALOGM9sevXGeRYUd6n57M8ADYZ77WGwPyq\nORaowcp2zQKBgHY0z8pwFchhf+s+/QQMLpTOjsCB+3Fk1EmeKsC/r0ehU5BDEs+k\nSgrSDgxBNTzv2sGeoqJC2eolrnsIHcJsTT8vBdehEqbxr5861SLwY1Ei15wy56j7\nq89AKAUxGxUvR25t2cJt9iX6pyfnnHOH2/s1YIT4IyJKgOGL8uo5BDDNAoGAENwv\nD2Qdby06cGok4dv5lqWmmqGvuR/rhnkh/2QqynMHxXRQr78JudvOpUZe5CpZCHvs\nV1qB+R1xPnx1m1d5C1rJ4zVuiSHRETWZz309Qq/YtvMWoGVR3q2L3Q/D6Jpe0tdp\nNPe+5JXhtKaTRzgOKMAHlhqdnTh4yBgdVdd6p/0CgYBB7hUMWgQQHAsLVMBS1t4s\n2oHtCq6k7IT6TKx8DCi5gHKXdxm/t+MBjb1Jhlc43kmQhUWPZjYZr+Tjax2oNjRL\nA4Ei7p3kmxZsuEppLq0qQ9K2SzotuD5BHYEdS86328FJVaCxhm8ysL6d+v3+aK8W\nioLq7r+zCy4sIs7a+1WY8A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rr97w@social-planner-5fc35.iam.gserviceaccount.com",
+  "client_id": "117099314725421343909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rr97w%40social-planner-5fc35.iam.gserviceaccount.com"
+}
